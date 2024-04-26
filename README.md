@@ -18,10 +18,16 @@ Este repositório reúne uma coleção de temas incríveis para personalizar o a
 
 **1. Lista de Temas:**
 
-* **Lorem Ipsum:** Descrição breve do tema.
-* **Lorem Ipsum:** Descrição breve do tema.
-* **Lorem Ipsum:** Descrição breve do tema.
-* **Lorem Ipsum:** Descrição breve do tema.
+* **classic:** Descrição breve do tema.
+* **dark:** Descrição breve do tema.
+* **solarized light:** Descrição breve do tema.
+* **solarized dark:** Descrição breve do tema.
+* **dracula:** Descrição breve do tema.
+* **monokai:** Descrição breve do tema.
+* **desert:** Descrição breve do tema.
+* **tango:** Descrição breve do tema.
+* **obsidian:** Descrição breve do tema.
+* **flampas:** Descrição breve do tema.
 
 ---
 
@@ -36,9 +42,9 @@ Este repositório reúne uma coleção de temas incríveis para personalizar o a
 
 **3. Instalação:**
 
-**Passo 1:** Lorem Ipsum.
-**Passo 2:** Lorem Ipsum.
-**Passo 3:** Lorem Ipsum.
+* **Passo 1:** Lorem Ipsum.
+* **Passo 2:** Lorem Ipsum.
+* **Passo 3:** Lorem Ipsum.
 
 ---
 
@@ -47,11 +53,3 @@ Este repositório reúne uma coleção de temas incríveis para personalizar o a
 * **Sugestões de Temas:** Envie suas ideias para novos temas ou cores que você gostaria de ver no repositório.
 * **Criação de temas:** Ajude a aprimorar os temas existentes ou a criar novos.
 * **Relatar Problemas:** Informe sobre qualquer problema que você encontrar ao usar os temas.
-
----
-
-**5. Informações Essenciais:**
-
-* **Licença:** MIT
-* **Autores:** LeandroGalvão/galvandro
-* **Agradecimentos:** [Agradecimentos]
