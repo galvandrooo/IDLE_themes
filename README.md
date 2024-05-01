@@ -7,25 +7,25 @@ Este repositório reúne uma coleção de temas para personalizar o ambiente de 
 # **Lista de Temas:**
 
 * `classic:`
-  
+* ![tema](classic.png)
 * `dark:`
-  
+* ![tema](dark.png)
 * `solarized light:`
-
+* ![tema](solarizedL.png)
 * `solarized dark:`
-
+* ![tema](solarizedD.png)
 * `dracula:`
-
+* ![tema](dracula.png)
 * `monokai:`
-
+* ![tema](monokai.png)
 * `desert:`
-
+* ![tema](desert.png)
 * `tango:`
-
+* ![tema](tango.png)
 * `obsidian:`
-
+* ![tema](obsidian.png)
 * `flampas:`
-
+* ![tema](flampas.png)
 ---
 
 # **Instalação:**
