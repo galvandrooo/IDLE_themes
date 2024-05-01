@@ -8,16 +8,25 @@ Este repositório reúne uma coleção de temas incríveis para personalizar o a
 
 # **Lista de Temas:**
 
-* **classic:** Descrição breve do tema.
-* **dark:** Descrição breve do tema.
-* **solarized light:** Descrição breve do tema.
-* **solarized dark:** Descrição breve do tema.
-* **dracula:** Descrição breve do tema.
-* **monokai:** Descrição breve do tema.
-* **desert:** Descrição breve do tema.
-* **tango:** Descrição breve do tema.
-* **obsidian:** Descrição breve do tema.
-* **flampas:** Descrição breve do tema.
+* `classic:`
+* 
+* `dark:`
+* 
+* `solarized light:`
+*
+* `solarized dark:`
+*
+* `dracula:`
+*
+* `monokai:`
+*
+* `desert:`
+*
+* `tango:`
+*
+* `obsidian:`
+*
+* `flampas:`
 
 ---
 
