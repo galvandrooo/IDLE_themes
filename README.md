@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Jersey+15&size=35&pause=1000&color=2CC200&random=false&width=435&lines=IDLE_themes_)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Jersey+15&size=35&pause=1000&color=2CC200&random=false&width=435&lines=>>>+IDLE_THEMES_)](https://git.io/typing-svg)
 
 Este repositório reúne uma coleção de temas para personalizar o ambiente de desenvolvimento do Python no IDLE, tornando sua experiência de codificação mais vibrante, inspiradora e produtiva. 
 
