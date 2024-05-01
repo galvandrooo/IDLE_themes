@@ -30,7 +30,10 @@ Este repositório reúne uma coleção de temas para personalizar o ambiente de 
 
 # **Instalação:**
 
-* **Passo 1:** copie o conteudo do arquivo `.cfg` do tema desejado.
+* **Passo 1:** copie o conteudo do arquivo `.cfg` do tema desejado. Ex:
+
+![dir](cfgF.png)
+
 * **Passo 2:** cole o conteudo do tema escolhido em uma nova linha no arquivo `config-highlight.cfg` no diretorio `.idlerc`.
 
 ![dir](dir.png)
