@@ -1,4 +1,4 @@
-## Temas para o IDLE do Python 
+# **Temas para o IDLE** 
 
 **Seja bem-vindo(a)!** 
 
@@ -6,50 +6,32 @@ Este repositório reúne uma coleção de temas incríveis para personalizar o a
 
 ---
 
-**O que você vai encontrar aqui:**
+# **Lista de Temas:**
 
-* **Variedade de temas:** Explore uma ampla gama de temas para todos os gostos, desde cores vibrantes e designs modernos até estilos clássicos e minimalistas.
-* **Instalação fácil:** Siga as instruções passo a passo para instalar os temas em seu IDLE em poucos instantes.
-* **Espirito colaborativa:** Junte-se à comunidade de desenvolvedores Python, e compartilhe suas ideias e sugestões.
-
----
-
-## **Comece sua jornada de personalização agora mesmo!** 
-
-**1. Lista de Temas:**
-
-* **classic:** Descrição breve do tema.
-* **dark:** Descrição breve do tema.
-* **solarized light:** Descrição breve do tema.
-* **solarized dark:** Descrição breve do tema.
-* **dracula:** Descrição breve do tema.
-* **monokai:** Descrição breve do tema.
-* **desert:** Descrição breve do tema.
-* **tango:** Descrição breve do tema.
-* **obsidian:** Descrição breve do tema.
-* **flampas:** Descrição breve do tema.
-
----
-
-**2. Capturas de Tela:**
-
-[Imagem do Tema]
-[Imagem do Tema]
-[Imagem do Tema]
-[Imagem do Tema]
+* `classic:`
+* 
+* `dark:`
+* 
+* `solarized light:`
+*
+* `solarized dark:`
+*
+* `dracula:`
+*
+* `monokai:`
+*
+* `desert:`
+*
+* `tango:`
+*
+* `obsidian:`
+*
+* `flampas:`
 
 ---
 
-**3. Instalação:**
+# **Instalação:**
 
 * **Passo 1:** Lorem Ipsum.
 * **Passo 2:** Lorem Ipsum.
 * **Passo 3:** Lorem Ipsum.
-
----
-
-**4. Contribuição:**
-
-* **Sugestões de Temas:** Envie suas ideias para novos temas ou cores que você gostaria de ver no repositório.
-* **Criação de temas:** Ajude a aprimorar os temas existentes ou a criar novos.
-* **Relatar Problemas:** Informe sobre qualquer problema que você encontrar ao usar os temas.
