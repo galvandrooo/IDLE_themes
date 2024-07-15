@@ -40,6 +40,6 @@ Este repositório reúne uma coleção de temas para personalizar o ambiente de 
 
 ![dir](theme.png)
 
-* **Passo 3:** aplique o tema, abrindo o IDLE, indo `highlight` nas coniuracoes, e escolhendo o tema.
+* **Passo 3:** aplique o tema, abrindo o IDLE, indo em `highlight` nas configurações, e escolhendo o tema.
 
 ![dir](apply.png)
